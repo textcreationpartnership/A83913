@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions delivered by the Lords at a conference with the House of Commons, for a personall treaty with the King, upon His Majesties passing foure bills, for security of the peace of the Kingdome. And the copy of a solemne engagement of the inhabitants of the North of England, for the defence of their rights, properties, and liberties, and the authority of Parliament, and the fundamentall laws of the Kingdome. To oppose all foraigne forces invited or brought into this Kingdome, upon any pretence whatsoever. Signed by many thousand hands, and dayly more subscribe. Novemb. 26. 1647. Imprimatur Gilb. Mabbot.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83913</idno><idno type="EEBO-CITATION">99864014</idno>
+  <idno type="VID">161317</idno>
+  <idno type="EEBO-PROQUEST">2240909350</idno>
+  
+            <idno type="STC">Wing E2842</idno>
+            <idno type="STC">Thomason E417_8</idno>
+            <idno type="STC">ESTC R204530</idno>
+            <idno type="PROQUEST">99864014</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864014e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161317)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E417[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions delivered by the Lords at a conference with the House of Commons, for a personall treaty with the King, upon His Majesties passing foure bills, for security of the peace of the Kingdome. And the copy of a solemne engagement of the inhabitants of the North of England, for the defence of their rights, properties, and liberties, and the authority of Parliament, and the fundamentall laws of the Kingdome. To oppose all foraigne forces invited or brought into this Kingdome, upon any pretence whatsoever. Signed by many thousand hands, and dayly more subscribe. Novemb. 26. 1647. Imprimatur Gilb. Mabbot.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161317:1"/>
+            <p>PROPOSITIONS DELIVERED By the LORDS at a Conference with the <hi>House of COMMONS,</hi> FOR A Personall Treaty with the KING, <hi>upon His Majesties passing foure Bills, for secu<g ref="char:EOLhyphen"/>rity</hi> of the peace of the Kingdome.</p>
+            <p>AND The Copy of a Solemne Engagement <hi>of the Inhabitants of the North of</hi> England, <hi>for</hi> the Defence of their Rights, Properties, and Liberties, the Authority of Parliament, and <hi>the fundamentall Laws of the Kingdome.</hi>
+            </p>
+            <p>
+               <hi>To Oppose all Foraigne Forces invited or brought into this Kingdome, upon any pretence whatsoever.</hi>
+            </p>
+            <p>Signed by many thousand hands, and dayly more Subscribe.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Novemb. 26. 1647.</date>
+                           </dateline>
+                        </opener>
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilb. Mabbott.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitson,</hi> in Smithfield, neer the Queenes-head Tavern, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161317:2"/>
+            <pb n="3" facs="tcp:161317:2"/>
+            <head>Heads of a CONFERENCE Delivered By the Lords, to the House of <hi>Com<g ref="char:EOLhyphen"/>mons, concerning a Treaty with His Ma<g ref="char:EOLhyphen"/>jesty,</hi> upon the passing of foure Bills.</head>
+            <opener>
+               <dateline>
+                  <date>Die Veneris, Novemb. 26. 1647.</date>
+               </dateline>
+            </opener>
+            <p>THe House of Peeres sent Dr. <hi>Alit,</hi> and the Clerke of the Crowne to the House of Commons to desire a conference this day in the Painted Chamber, where both Houses immediatly met.</p>
+            <p>The right honourable the Earl of <hi>Manches<g ref="char:EOLhyphen"/>ter</hi> (Speaker of the House of Peeres <hi>pro tem<g ref="char:EOLhyphen"/>pore</hi>)
+<pb n="4" facs="tcp:161317:3"/> declared to the House of Commons, that he was commanded by the Lords to ac<g ref="char:EOLhyphen"/>quaint them, that their Lordships had taken into consideration the desires of the Kings Majesty in His message to treat with the Par<g ref="char:EOLhyphen"/>liament, and also the Scots Papers, delivered in by the Commissioners of the Kingdome of <hi>Scotland,</hi> pressing for a Treaty with His Majesty.</p>
+            <p>And their Lordships had also considered the desires of the kingdome to be delivered from all burthens and fears, and to have the Government of the kingdom setled, and clea<g ref="char:EOLhyphen"/>red, that the kingdome may be preserved in peace.</p>
+            <p>That their Lordships had commanded him to acquaint them that they do propound to the House of Commons, That foure pro<g ref="char:EOLhyphen"/>positions may be speedily sent to His Ma<g ref="char:EOLhyphen"/>jesty to be passed for the safety and security of the Parliament and Kingdom, and to treat with His Majesty upon the rest.</p>
+            <p n="1">I. That a Bill be drawn up by consent of both Houses for His Majesty to passe into an Act,
+<pb n="5" facs="tcp:161317:3"/> for the settling of the Militia of the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p n="2">II. That a Bill be passed for his Majesties cal<g ref="char:EOLhyphen"/>ling In of all Declarations, Oathes, and Pro<g ref="char:EOLhyphen"/>clamations against the Parliament, and those who have adhered to them.</p>
+            <p n="3">III. For passing an Act that those Lords who were made after the great Seale was carried to <hi>Oxford,</hi> may be made uncapable of sitting in the House of Peeres thereby.</p>
+            <p n="4">IV. That power may bee given to the two Houses of Parliament, to adjourn as the two Houses of Parliament shall think fit.</p>
+            <p>That His Majesty giving the Kingdome security by passing these foure Propositions, there may be a personal treaty with His Ma<g ref="char:EOLhyphen"/>jesty, and the Parliaments of both Kingdoms for the passing of the rest of the Propositions</p>
+            <p>That their Lordships thinke this to be the most probable way for a speedy agreement, betweene His Majesty and the Kingdomes and therefore desire the concurrence of the House of Commons therein,</p>
+            <argument>
+               <pb n="6" facs="tcp:161317:4"/>
+               <p>The papers were delivered by his Lord<g ref="char:EOLhyphen"/>ship to Mr. <hi>Lisle,</hi> to be, by him, reported in the House of Commons.</p>
+            </argument>
+         </div>
+         <div type="text">
+            <head>A SOLEMN ENGAGEMENT OF THE Northerne Inhabitants, FOR The defence of their Rights, Proper<g ref="char:EOLhyphen"/>ties, and Liberties, the Authority of Par<g ref="char:EOLhyphen"/>liament, and the fundamentall Laws of the KINGDOME.</head>
+            <p>VVHereas there hath beene severall Petitions, and Remonstrances pre<g ref="char:EOLhyphen"/>sented to the Parliament, for the oppressed parts of the <hi>North-Riding</hi> in the County of <hi>Yorke,</hi> as of the present abuses of Govern<g ref="char:EOLhyphen"/>ment, which as yet have received no re<g ref="char:EOLhyphen"/>dresse, That <hi>Pickeringlith</hi> is a member of the North-Riding, and hath suffered in many unequall burthens, as relating to the whole Kingdome.</p>
+            <pb n="7" facs="tcp:161317:4"/>
+            <p>And whereas a late Petition was presented unto his Excellency Sir <hi>Thomas Fairfax,</hi> pray<g ref="char:EOLhyphen"/>ing his Excellency, that in some of his ad<g ref="char:EOLhyphen"/>dresses to the Honourable houses of Parlia<g ref="char:EOLhyphen"/>ment, he would mediate by some meanes, that Justice might be done unto them, as al<g ref="char:EOLhyphen"/>so to protect them with his Army, they be<g ref="char:EOLhyphen"/>ing a naked people (and to be Armed) all which His Excellency hath promised under His hand and seale to indeavour to doe.</p>
+            <p>In humble acknowledgment of his affairs and to prevent all invasions or any new way upon us or our Country, we whose names are here under listed, do promise and ingage our selves, in and for the defence of our rights properties and liberties, the Authority of Parliament, And the fundamentall lawes of this Kingdome, to oppose all forraigne Forces invited or brought into this Kingdom upon any pretence whatsoever, And to this end wee are and will be ready to rise, and put our selves under such Commanders as we shall chuse, with the approbation of his Excellency and the Commander in cheife for the Northen Assotiation. And with them
+<pb n="8" facs="tcp:161317:5"/> to live and dye, For the maintenance of the said Generall, and for the preservation of his Excellency, and Army under his Com<g ref="char:EOLhyphen"/>mand, he and they standing like us for the said principles.</p>
+            <argument>
+               <p>This Solemne Engagement is Signed by many thousand hands, and daily more doe Subscribe.</p>
+            </argument>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
